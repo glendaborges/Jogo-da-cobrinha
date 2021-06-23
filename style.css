@@ -1,0 +1,14 @@
+body {
+    height: 95vh;
+    width: 95;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: rgb(50, 36, 173);
+    background-color: rgb(213, 187, 238);
+    font-family: 'Quicksand', sans-serif;
+    font-size: large;
+}
+
+
